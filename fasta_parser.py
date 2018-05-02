@@ -32,4 +32,3 @@ if __name__=="__main__":
                 peptide_set.add(each_peptide)
     print len(list(peptide_set))
     print time.clock()-start_time
-    #test
